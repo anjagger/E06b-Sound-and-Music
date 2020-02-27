@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Bag of D&D dice.wav-6b02e4cedef6baaca305f1e289c55c0b.sample"
+
+[deps]
+
+source_file="res://Bag of D&D dice.wav"
+dest_files=[ "res://.import/Bag of D&D dice.wav-6b02e4cedef6baaca305f1e289c55c0b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

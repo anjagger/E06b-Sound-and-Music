@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Fun Day in the City.ogg-e21dbe3c2b51975dce6c00fb22d94dce.oggstr"
+
+[deps]
+
+source_file="res://Fun Day in the City.ogg"
+dest_files=[ "res://.import/Fun Day in the City.ogg-e21dbe3c2b51975dce6c00fb22d94dce.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
